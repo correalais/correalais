@@ -2,7 +2,7 @@
 
 
  - 🎓 Studying my last year of System Analysis and Development
- - 💻 Learning more about front - end
+ - 💻 Learning more about web development.
  \
  \
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=correalais&layout=compact&theme=dracula)](https://github.com/correalais)
