@@ -1,8 +1,8 @@
-# Hello! ⭐
-
+# Hello!
 
  - 🎓 Studying my last year of System Analysis and Development
- - 💻 Learning more about web development.
+ - 💻 Associate Developer at [ADP Brazil Labs](https://adp.com)
+ - 🖥️ Learning more about web development.
  \
  \
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=correalais&layout=compact&theme=dracula)](https://github.com/correalais)
